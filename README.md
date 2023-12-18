@@ -94,7 +94,7 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
  34.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
  =
  35.Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
- =
+ = 
  36.Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
  =
  37.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
@@ -124,7 +124,7 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
  49.Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
  =
  50.Membangun Profil Github Page ⭐⭐⭐⭐⭐
-=
+= https://muhammadhafiz2694.wordpress.com/2023/12/18/membangun-profil-github-page-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
  51.Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 = https://muhammadhafiz2694.wordpress.com/2023/12/18/mengikuti-workshop-event-course-terkait-it-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
  52.Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
