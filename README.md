@@ -42,6 +42,7 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
 9.Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 = <img width="960" alt="gambar8" src="https://github.com/hafizsama/Muhammad-Hafiz_UAS./assets/144501922/e407ab86-0f80-455c-a08c-7a1f0087bfbc">
 = <img width="960" alt="gambar9" src="https://github.com/hafizsama/Muhammad-Hafiz_UAS./assets/144501922/40357b47-7628-4192-9e61-f1043782ebe8">
+= https://youtu.be/gf2-SbUjYi8
 
 10.Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
@@ -56,7 +57,8 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
  15.Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
  =
  16.Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
- =
+ = https://youtu.be/LYiX4oVeZas
+ = https://youtu.be/ck3X9ddvooI
  17.Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
  =
  18.Mencoba Pembuatan File JSON [v] ⭐⭐⭐
@@ -108,17 +110,22 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
  41.Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
  =
  42.Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
- =
+ = 
  43.Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
- =
+ = https://youtu.be/Zce4Wq-i14s
  44.Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 =
  45.Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-=
+= <img width="960" alt="image" src="https://github.com/hafizsama/Muhammad-Hafiz_UAS./assets/144501922/4cc2e489-c826-4b51-a53e-e12e8c11f3f2">
+= <img width="960" alt="image" src="https://github.com/hafizsama/Muhammad-Hafiz_UAS./assets/144501922/4d354515-6d1b-45fa-b00b-5878c21ba2cb">
+=<img width="960" alt="image" src="https://github.com/hafizsama/Muhammad-Hafiz_UAS./assets/144501922/7ae7ee89-b199-4783-a4af-7ab510538b37">
+
+
+
  46.Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 =
  47.Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-=
+= https://youtu.be/cS9iDKh3tkU
  48.Eksplorasi Top Github Project yang Diminati ⭐⭐
 =
  49.Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
