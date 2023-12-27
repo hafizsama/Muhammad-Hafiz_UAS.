@@ -96,11 +96,11 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
  34.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
  =
  35.Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
- = 
+ = https://youtu.be/spUAQwCbdIU?si=i1PwMRu4PO_G6zl9
  36.Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
  =
  37.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
- =
+ = https://youtu.be/Mhfo_YaoN2s
  38.Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
  =
  39.Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
