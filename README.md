@@ -47,7 +47,7 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
 10.Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
  11.Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
- =
+ = https://youtu.be/eH9_qCzy3hQ
  12.Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
  =
  13.Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
@@ -55,7 +55,7 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
  14.Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
  =
  15.Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
- =
+ = https://youtu.be/AnMO8re_rJ8
  16.Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
  = https://youtu.be/LYiX4oVeZas
  = https://youtu.be/ck3X9ddvooI
@@ -108,13 +108,14 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
  40.Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
  =
  41.Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
- =
+ = <img width="960" alt="image" src="https://github.com/hafizsama/Muhammad-Hafiz_UAS./assets/144501922/2f2bafa3-9cb3-4522-8c9b-28f7a4347aa0">
+
  42.Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
- = 
+ = https://muhammadhafiz2694.wordpress.com/2023/12/30/42-mengeksplorasi-seluruh-profesi-terkait-informatika-dan-profesi-yang-diminati-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
  43.Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
  = https://youtu.be/Zce4Wq-i14s
  44.Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
-=
+= https://youtu.be/RlBYFEI-uuA
  45.Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 = <img width="960" alt="image" src="https://github.com/hafizsama/Muhammad-Hafiz_UAS./assets/144501922/4cc2e489-c826-4b51-a53e-e12e8c11f3f2">
 = <img width="960" alt="image" src="https://github.com/hafizsama/Muhammad-Hafiz_UAS./assets/144501922/4d354515-6d1b-45fa-b00b-5878c21ba2cb">
@@ -123,13 +124,16 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
 
 
  46.Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-=
+= https://youtu.be/BIoYGVWzwTM
  47.Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 = https://youtu.be/cS9iDKh3tkU
  48.Eksplorasi Top Github Project yang Diminati ⭐⭐
-=
+= <img width="960" alt="image" src="https://github.com/hafizsama/Muhammad-Hafiz_UAS./assets/144501922/31706216-7f6d-40d1-9fa7-fed51fcc624c">
+= <img width="960" alt="image" src="https://github.com/hafizsama/Muhammad-Hafiz_UAS./assets/144501922/061d1c3a-e500-4195-8f7c-5be67f1725ad">
+
+
  49.Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
- =
+ = 
  50.Membangun Profil Github Page ⭐⭐⭐⭐⭐
 = https://muhammadhafiz2694.wordpress.com/2023/12/18/membangun-profil-github-page-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
  51.Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
