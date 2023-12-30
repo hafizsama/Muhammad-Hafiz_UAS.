@@ -133,7 +133,7 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
 
 
  49.Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
- = 
+ = https://youtu.be/d9ysSck5vvs
  50.Membangun Profil Github Page ⭐⭐⭐⭐⭐
 = https://muhammadhafiz2694.wordpress.com/2023/12/18/membangun-profil-github-page-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
  51.Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
