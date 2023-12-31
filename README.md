@@ -18,6 +18,7 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
 
 4.Mencoba Console Sistem Operasi
 -Windows CMD [v] ⭐⭐⭐⭐
+= https://youtu.be/2kEL_jXI_70
 
 
 5.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
@@ -33,7 +34,7 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
 
 
 7.Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-= 
+= https://youtu.be/2kEL_jXI_70
 
 8.Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 = ![GAMBAR6](https://github.com/hafizsama/Muhammad-Hafiz_UAS./assets/144501922/8de42bba-9cb5-49f1-9afa-23efa329bf84)
@@ -49,7 +50,7 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
  11.Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
  = https://youtu.be/eH9_qCzy3hQ
  12.Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
- =
+ = https://youtu.be/v2BfdlO-v7c?si=L7Qs5LM0al-Onp18
  13.Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
  =
  14.Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
