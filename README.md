@@ -46,7 +46,7 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
 = https://youtu.be/gf2-SbUjYi8
 
 10.Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-
+= https://muhammadhafiz2694.wordpress.com/2024/01/01/mendemonstrasikan-pembuatan-aplikasi-game-pada-platform-mobile-desktop-web-browser-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
  11.Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
  = https://youtu.be/eH9_qCzy3hQ
  12.Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
@@ -61,13 +61,13 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
  = https://youtu.be/LYiX4oVeZas
  = https://youtu.be/ck3X9ddvooI
  17.Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
- =
+ = https://muhammadhafiz2694.wordpress.com/2024/01/01/mencoba-penerapan-teknik-search-engine-optimization-seo-pada-html-v-%e2%ad%90%e2%ad%90%e2%ad%90/
  18.Mencoba Pembuatan File JSON [v] ⭐⭐⭐
  =
  19.Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
- =
+ = https://muhammadhafiz2694.wordpress.com/2024/01/01/mencoba-penggunaan-web-hosting-dengan-untuk-halaman-html-v-%e2%ad%90%e2%ad%90%e2%ad%90/
  20.Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
- =
+ = https://youtu.be/gU7oz398KSQ
  21.Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
  =
  22.Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
@@ -95,15 +95,15 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
  33.Mencoba Data Visualization Dengan Code [v] ⭐⭐
  =
  34.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
- =
+ = https://youtu.be/3yq58KwGH-s
  35.Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
  = https://youtu.be/spUAQwCbdIU?si=i1PwMRu4PO_G6zl9
  36.Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
- =
+ = https://youtu.be/C5UkEHQ4GME
  37.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
  = https://youtu.be/Mhfo_YaoN2s
  38.Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
- =
+ = 
  39.Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
  =
  40.Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
