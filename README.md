@@ -52,9 +52,9 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
  12.Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
  = https://youtu.be/v2BfdlO-v7c?si=L7Qs5LM0al-Onp18
  13.Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
- =
+ = https://muhammadhafiz2694.wordpress.com/2024/01/01/mendemonstrasikan-dan-menjelaskan-penggunaan-web-browser-untuk-mengakses-halaman-website-html-v-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
  14.Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
- =
+ = https://muhammadhafiz2694.wordpress.com/2024/01/01/mendemonstrasikan-dan-menjelaskan-komponen-dari-contoh-uniform-resource-locator-url-v-%e2%ad%90%e2%ad%90/
  15.Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
  = https://youtu.be/AnMO8re_rJ8
  16.Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
@@ -69,7 +69,7 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
  20.Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
  = https://youtu.be/gU7oz398KSQ
  21.Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
- =
+ = https://youtu.be/nP4Vo3R-QWg
  22.Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
  =
  23.Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
@@ -93,7 +93,7 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
  32.Mencoba Data Visualization Dengan Tools [v] ⭐⭐
  =
  33.Mencoba Data Visualization Dengan Code [v] ⭐⭐
- =
+ = https://youtu.be/E5jHwc9ywOw
  34.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
  = https://youtu.be/3yq58KwGH-s
  35.Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
@@ -103,11 +103,11 @@ https://muhammadhafiz2694.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin
  37.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
  = https://youtu.be/Mhfo_YaoN2s
  38.Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
- = 
+ = https://youtu.be/VAqPOe23ibM
  39.Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
  =
  40.Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
- =
+ = https://youtu.be/y3QxAeSd2TQ
  41.Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
  = <img width="960" alt="image" src="https://github.com/hafizsama/Muhammad-Hafiz_UAS./assets/144501922/2f2bafa3-9cb3-4522-8c9b-28f7a4347aa0">
 
